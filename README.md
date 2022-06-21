@@ -1,0 +1,1 @@
+The "odin-recipes" project is a basic recipes project currently written in HTML only and its purpose is to put all of my HTML knowledge I have been acquiring so far to use.
